@@ -2,7 +2,7 @@
 title: Group members
 layout: page
 ---
-To paraphrase [a former mentor](https://en.wikipedia.org/wiki/David_Patterson_(computer_scientist)), "in academia, graduate students are the coin of the realm." I have had the immense good fortune to work with these fantastic students and postdocs, and am always looking to add more talented and hard-working students to my group.
+To paraphrase [a former mentor](https://en.wikipedia.org/wiki/David_Patterson_(computer_scientist)), "in academia, good graduate students are the coin of the realm." I have had the immense fortune to work with these fantastic students and postdocs, and am always looking to add more talented and hard-working students to my group.
 
 <div class="groupmember">
 <img src="assets/img/caleb.jpg">
