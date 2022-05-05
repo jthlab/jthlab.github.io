@@ -18,9 +18,7 @@ about new areas and help other scientists understand their data. Please get in t
 Please click [here](publications) for a list of our publications.
 
 ### Contact information
-The best way to contact us is by e-mail: <a href="mailto:jonth@umich.edu">jonth@umich.edu</a>.
-
-Snail mail should be sent to:<br/><br/>
+E-mail is my preferred method of contact: <a href="mailto:jonth@umich.edu">jonth@umich.edu</a>. Snail mail should be sent to:<br/><br/>
 Jonathan Terhorst<br />
 269 West Hall<br />
 University of Michigan<br />
