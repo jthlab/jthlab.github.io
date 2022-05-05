@@ -1,0 +1,10 @@
+---
+---
+{{ reference }}
+{% if entry.doi %}
+[<a href="https://dx.doi.org/{{ entry.doi }}">link</a>]
+{% endif %}
+{% if entry.url %}
+[<a href="{{ entry.url }}">link</a>]
+{% endif %}
+[<a href="#" onclick="toggle('{{ entry.key }}bibtex'); return false;">bibtex</a>]<pre id="{{ entry.key }}bibtex" style="display:none">{{ entry.bibtex }}</pre>

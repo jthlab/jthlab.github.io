@@ -33,7 +33,13 @@ github_username:  terhorst
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+  - "jekyll/scholar"
+
+scholar:
+  bibliography_template: bibentry
+  style: ./_bibliography/plos.csl
+  bibtex_filters:
+    - latex
 
 # Exclude from processing.
 # The following items will not be processed, by default.
