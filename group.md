@@ -1,0 +1,29 @@
+---
+title: Group members
+layout: page
+---
+To paraphrase [a former mentor](https://en.wikipedia.org/wiki/David_Patterson_(computer_scientist)), "in academia, graduate students are the coin of the realm." I have had the immense good fortune to work with these fantastic students and postdocs, and am always looking to add more talented and hard-working students to my group.
+
+<div class="groupmember">
+<img src="assets/img/caleb.jpg">
+Caleb Ki (2017–2022). Off to Lyft as a data scientist.
+</div>
+
+<div class="groupmember">
+<img src="assets/img/enes.jpg">
+Enes Dilber (2017–).
+</div>
+
+<div class="groupmember">
+<img src="assets/img/yifan.jpg">
+Yifan Jin (2017–).
+</div>
+
+<div class="groupmember">
+<img src="assets/img/brandon.jpg">
+
+<a href="https://sites.google.com/umich.edu/blegried/home">Brandon Legried</a> (postdoctoral scholar; 2020–2022). Now at Georgia Tech.
+</div>
+
+<img src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png" width="20%" style="float: right" />
+
