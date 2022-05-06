@@ -24,6 +24,3 @@ Yifan Jin (2017–).
 
 <a href="https://sites.google.com/umich.edu/blegried/home">Brandon Legried</a> (postdoctoral scholar; 2020–2022). Now at Georgia Tech.
 </div>
-
-<img src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png" width="20%" style="float: right" />
-
