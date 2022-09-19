@@ -6,7 +6,7 @@ To paraphrase [a former mentor](https://en.wikipedia.org/wiki/David_Patterson_(c
 
 #### Current
 
-<div class="groupmember">
+<div class="groupmember" style="padding: 0 0 10px 0;">
 <img src="assets/img/enes.jpg">
 Enes Dilber (2017–)
 </div>
@@ -14,7 +14,7 @@ Enes Dilber (2017–)
 <hr />
 #### Former
 
-<div class="groupmember">
+<div class="groupmember" style="padding: 0; ">
 <img src="assets/img/caleb.jpg">
 Caleb Ki (2017–2022). Off to Lyft as a data scientist.
 </div>
