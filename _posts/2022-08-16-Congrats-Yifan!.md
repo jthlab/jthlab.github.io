@@ -1,0 +1,1 @@
+Congratulations to Yifan for successfully defending! Yifan did interesting work on several challenging problems related to coalescent hidden Markov models. It's hard to believe that we've been working together for five years! Yifan's future plans are up in the air but I'm sure he will do well wherever he lands. Good luck Yifan!
