@@ -8,7 +8,7 @@ To paraphrase [a former mentor](https://en.wikipedia.org/wiki/David_Patterson_(c
 
 <div class="groupmember" style="padding: 0 0 30px 0;">
 <img src="assets/img/enes.jpg">
-Enes Dilber (2017–)
+Enes Dilber (2018–)
 </div>
 
 #### Former
