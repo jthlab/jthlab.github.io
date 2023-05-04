@@ -9,9 +9,8 @@ To paraphrase [a former mentor](https://en.wikipedia.org/wiki/David_Patterson_(c
 <div class="groupmember" style="padding: 0 0 30px 0;">
 <a href="https://dodat619.github.io/">
 <img src="assets/img/dat.jpg" />
-Dat Do (2023–)
+Dat Do</a> (2023–)
 </div>
-</a>
 
 <div class="groupmember" style="padding: 0 0 30px 0;">
 <img src="assets/img/enes.jpg" />
@@ -26,8 +25,9 @@ Caleb Ki (2017–2022). Off to Lyft as a data scientist.
 </div>
 
 <div class="groupmember">
+<a href="https://sites.google.com/umich.edu/blegried/home">
 <img src="assets/img/brandon.jpg" />
-<a href="https://sites.google.com/umich.edu/blegried/home">Brandon Legried</a> (postdoctoral scholar; 2020–2022). Now at Georgia Tech.
+Brandon Legried</a> (postdoctoral scholar; 2020–2022). Now at Georgia Tech.
 </div>
 
 <div class="groupmember">
