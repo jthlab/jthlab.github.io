@@ -20,12 +20,13 @@ Please click [here](publications) for a list of our publications.
 ### Contact information
 E-mail is the preferred method of contact: <a href="mailto:jonth@umich.edu">jonth@umich.edu</a>. Snail mail should be sent to:<br/><br/>
 Jonathan Terhorst<br />
-269 West Hall<br />
+252 West Hall<br />
 University of Michigan<br />
 Ann Arbor, MI 48109<br />
 
 ### Funding
-Our research is supported by the National Science Foundation (grant num. DMS-2052653). Thanks!
+Our research is supported by the National Science Foundation (DMS-2052653) and National Institutes
+of Health (R35GM151145). Thanks!
 
-<img src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png" width="20%" />
-
+<img src="assets/img/logos/nsf_logo.png" width="20%" />
+<img src="assets/img/logos/nih_logo.png" width="20%" />
