@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>New Paper On Li Stephens | Terhorst lab</title>
+<meta name="generator" content="Jekyll v3.9.2" />
+<meta property="og:title" content="New Paper On Li Stephens" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Today we posted a new paper on the Li-Stephens (LS) haplotype copying model. LS is a beautiful technique for approximating the likelihood of a sample of whole genome sequence data, which is otherwise very hard to evaluate because of the astronomically large number of ancestry scenarios that could have generated the data. If you work in stat gen, chances are good you have used this model, perhaps without realizing it, since it underpins a lot of other extremely popular computational methods, including IMPUTE, SHAPEIT, EAGLE, fastPHASE, and maCH. For a brief summary of the method and all its applications, see this review paper by Yun Song, or just read the original paper, which is very nice and not too technical." />
+<meta property="og:description" content="Today we posted a new paper on the Li-Stephens (LS) haplotype copying model. LS is a beautiful technique for approximating the likelihood of a sample of whole genome sequence data, which is otherwise very hard to evaluate because of the astronomically large number of ancestry scenarios that could have generated the data. If you work in stat gen, chances are good you have used this model, perhaps without realizing it, since it underpins a lot of other extremely popular computational methods, including IMPUTE, SHAPEIT, EAGLE, fastPHASE, and maCH. For a brief summary of the method and all its applications, see this review paper by Yun Song, or just read the original paper, which is very nice and not too technical." />
+<link rel="canonical" href="https://jthlab.github.io/2022/08/06/New-Paper-on-Li-Stephens.html" />
+<meta property="og:url" content="https://jthlab.github.io/2022/08/06/New-Paper-on-Li-Stephens.html" />
+<meta property="og:site_name" content="Terhorst lab" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-08-06T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="New Paper On Li Stephens" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2022-08-06T00:00:00+00:00","datePublished":"2022-08-06T00:00:00+00:00","description":"Today we posted a new paper on the Li-Stephens (LS) haplotype copying model. LS is a beautiful technique for approximating the likelihood of a sample of whole genome sequence data, which is otherwise very hard to evaluate because of the astronomically large number of ancestry scenarios that could have generated the data. If you work in stat gen, chances are good you have used this model, perhaps without realizing it, since it underpins a lot of other extremely popular computational methods, including IMPUTE, SHAPEIT, EAGLE, fastPHASE, and maCH. For a brief summary of the method and all its applications, see this review paper by Yun Song, or just read the original paper, which is very nice and not too technical.","headline":"New Paper On Li Stephens","mainEntityOfPage":{"@type":"WebPage","@id":"https://jthlab.github.io/2022/08/06/New-Paper-on-Li-Stephens.html"},"url":"https://jthlab.github.io/2022/08/06/New-Paper-on-Li-Stephens.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="https://jthlab.github.io/feed.xml" title="Terhorst lab" /><script type="text/javascript">
+  function toggle(id) {
+    var x = document.getElementById(id);
+    if (x.style.display === "none") {
+      x.style.display = "block";
+    } else {
+      x.style.display = "none";
+    }
+  }
+  </script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css" integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X" crossorigin="anonymous">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js" integrity="sha384-g7c+Jr9ZivxKLnZTDUhnkOnsh30B4H0rpLUpJ4jAIKs4fnJI+sEnkvrMWph2EDg4" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/contrib/auto-render.min.js" integrity="sha384-mll67QQFJfxn0IYznZYonOWZ644AWYC+Pt2cHqMaRhXVrursRwvLnLaebdGIlYNa" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+</head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Terhorst lab</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/group.html">Group members</a><a class="page-link" href="/news.html">News</a><a class="page-link" href="/publications.html">Publications</a><a class="page-link" href="/teaching.html">Teaching</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">New Paper On Li Stephens</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2022-08-06T00:00:00+00:00" itemprop="datePublished">Aug 6, 2022
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>Today we posted a <a href="https://www.biorxiv.org/content/10.1101/2022.08.03.502674v1">new paper</a> on the Li-Stephens (LS) haplotype copying model. LS is a beautiful technique for approximating the likelihood of a sample of whole genome sequence data, which is otherwise very hard to evaluate because of the astronomically large number of ancestry scenarios that could have generated the data. 
+If you work in stat gen, chances are good you have used this model, perhaps without realizing it, since it underpins a lot of other extremely popular computational methods, including IMPUTE, SHAPEIT, EAGLE, fastPHASE, and maCH. For a brief summary of the method and all its applications, see this <a href="https://academic.oup.com/genetics/article/203/3/1005/6066789">review paper</a> by Yun Song, or just read the <a href="https://academic.oup.com/genetics/article/165/4/2213/6050566">original paper</a>, which is very nice and not too technical.</p>
+
+<p>As with any pop gen method, the output of the LS algorithm depends on some population genetic parameters, in this case the rates of recombination and mutation. We were curious how the output of the LS algorithm changes in response to perturbations in these parameters. Answering this question rigorously turns out to be statistically and mathematically interesting, with connections to convex analysis and changepoint detection. It’s also practically important since, presumably, the performance of the many algorithms founded upon LS depends on setting these parameters in an optimal way.</p>
+
+<p>Our contribution here is to derive an efficient algorithm for uncovering <em>all</em> of the possible solutions to the LS algorithm in a single run. This is akin to what the LARS algorithm does for the LASSO problem (\(\ell_1\) penalized regression). Unlike regression, in practice, the “answer” to LS is not known (and potentially not even defined), but using simulations and our algorithm, we can study how different parameterizations affect the ability to do certain tasks like imputation and phasing.</p>
+
+<p>One interesting finding from our paper is that using the “population-scaled” rates of recombination and mutation might actually be suboptimal, at least for some problem instances. In the graphic below, we compared the distribution of switch errors committed by a haplotype phasing algorithm over repeated simulations. The orange histogram is the distribution when the population-scaled values are used. The blue histogram is what we get 
+by using our algorithm to figure out the best possible settings for these parameters in each run. At least on the simulation considered here, there is a gap of a few percentage points in switch error that could possibly be erased by parameter tuning.</p>
+
+<p><img src="/assets/img/blog/2022-08-06/switch_error.png" alt="phasing error" /></p>
+
+  </div><a class="u-url" href="/2022/08/06/New-Paper-on-Li-Stephens.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Terhorst lab</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name"></li><li><a class="u-email" href="mailto:jonth@umich.edu">jonth@umich.edu</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/terhorst"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">terhorst</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p></p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
