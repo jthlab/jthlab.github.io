@@ -6,7 +6,7 @@
 layout: page
 ---
 
-<img src="assets/img/jt.jpg" id='jt' /> This is the home page for the Terhorst research group. If you're looking for [some](https://en.wikipedia.org/wiki/Jerald_terHorst) [other](https://www.imdb.com/name/nm3203926/) [Terhorst](https://www.dfhcc.harvard.edu/insider/member-detail/member/cornelis-p-terhorst-phd/), you've come to the wrong place.
+<img src="assets/img/jt.jpg" id='jt' /> This is the home page for the Terhorst research group. If you're looking for [some](https://en.wikipedia.org/wiki/Jerald_terHorst) [other](https://www.imdb.com/name/nm3203926/) [Terhorst](https://people.csiro.au/T/A/Andrew-Terhorst.aspx), you've come to the wrong place.
 
 **March 2024**: I am seeking to hire a postdoc in computational pop-gen, with emphasis on developing methods that incorporate AI
 (deep learning, LLMs, etc). Please get in touch if interested.
