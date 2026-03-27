@@ -1,0 +1,1 @@
+Congratulations to Enes on successfully defending! Enes worked on a wide range of problems in evolutionary statistics, from natural selection to demographic inference and phylogenetics, and he was a terrific colleague and labmate throughout his time here. We will miss him and wish him all the best in this next chapter.
