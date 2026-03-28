@@ -6,9 +6,14 @@
 layout: page
 ---
 
-<img src="assets/img/jt.jpg" id='jt' /> This is the home page for the Terhorst research group. If you're looking for [some](https://en.wikipedia.org/wiki/Jerald_terHorst) [other](https://www.imdb.com/name/nm3203926/) [Terhorst](https://people.csiro.au/T/A/Andrew-Terhorst.aspx), you've come to the wrong place.
 
-### About us
+<img src="assets/img/probgen2026.jpg" />
+<caption>In Berkeley for Probgen 2026!</caption>
+
+<br />
+
+<b>March 2026: I am looking to hire a postdoc in the area of ARG-powered complex trait analysis</b>. 
+
 We are a group of statisticians, mathematicians, and computer scientists
 broadly interested in statistical and probabilistic models of biological data. To date, our work 
 has mainly centered on problems arising in evolutionary biology, but we are always keen to learn
