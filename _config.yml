@@ -35,6 +35,8 @@ plugins:
 scholar:
   bibliography_template: bibentry
   style: ./_bibliography/plos.csl
+  sort_by: year,month
+  order: descending,descending
   bibtex_filters:
     - latex
 # Exclude from processing.
