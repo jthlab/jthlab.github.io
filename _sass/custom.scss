@@ -26,3 +26,17 @@ div.groupmember img {
   padding: 3px;
   border: 1px solid black;
 }
+
+div.groupmember--bio {
+  display: grid;
+  grid-template-columns: minmax(80px, 15%) minmax(0, 1fr);
+  align-items: center;
+  gap: 10px;
+}
+
+div.groupmember--bio .groupmember-photo img {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  margin: 0;
+}

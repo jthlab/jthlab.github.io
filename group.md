@@ -35,22 +35,19 @@ Adway Wadekar</a> (PhD student; 2025–)
 
 #### Former
 
-<div class="groupmember" style="padding: 0 0 30px 0;">
-<a href="https://hfr1tz3.github.io">
-<img src="assets/img/hallie.jpg" />
-Halley Fritze</a> (postdoctoral scholar; 2025–2026). Now a Van Loo Postdoctoral Research Fellow at U-M Complex Systems.
+<div class="groupmember groupmember--bio" style="padding: 0 0 30px 0;">
+<a class="groupmember-photo" href="https://hfr1tz3.github.io"><img src="assets/img/hallie.jpg" alt="" /></a>
+<div><a href="https://hfr1tz3.github.io">Halley Fritze</a> (postdoctoral scholar; 2025–2026). Now a Van Loo Postdoctoral Research Fellow at U-M Complex Systems.</div>
 </div>
 
-<div class="groupmember" style="padding: 0 0 30px 0;">
-<a href="https://sdtemple.github.io">
-<img src="assets/img/seth.jpg" />
-Seth Temple</a> (Schmidt AI fellow). Now a postdoctoral research associate at Los Alamos National Laboratory.
+<div class="groupmember groupmember--bio" style="padding: 0 0 30px 0;">
+<a class="groupmember-photo" href="https://sdtemple.github.io"><img src="assets/img/seth.jpg" alt="" /></a>
+<div><a href="https://sdtemple.github.io">Seth Temple</a> (Schmidt AI fellow). Now a postdoctoral research associate at Los Alamos National Laboratory.</div>
 </div>
 
-<div class="groupmember" style="padding: 0 0 30px 0;">
-<a href="https://dodat619.github.io/">
-<img src="assets/img/dat.jpg" />
-Dat Do</a> (2023–2025). Now a Kruskal Instructor at the University of Chicago.
+<div class="groupmember groupmember--bio" style="padding: 0 0 30px 0;">
+<a class="groupmember-photo" href="https://dodat619.github.io/"><img src="assets/img/dat.jpg" alt="" /></a>
+<div><a href="https://dodat619.github.io/">Dat Do</a> (2023–2025). Now a Kruskal Instructor at the University of Chicago.</div>
 </div>
 
 <div class="groupmember" style="padding: 0 0 30px 0;">
